@@ -4,7 +4,7 @@ title: About us
 permalink: /about/
 ---
 
-[logo]: https://raw.githubusercontent.com/garrafonsoft/garrafonsoft.github.io/master/images/GarrafonSoftwareLogo.png "Garrafon Software Logo"
+![alt text](https://raw.githubusercontent.com/garrafonsoft/garrafonsoft.github.io/master/images/GarrafonSoftwareLogo.png "Garrafon Software Logo")
 
 **Garrafon Software** is a software team devoted to the development of programs and applications for (mainly) the ZX Spectrum.
 
