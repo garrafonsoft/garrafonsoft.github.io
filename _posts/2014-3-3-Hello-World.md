@@ -1,10 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: Statement of purpose
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+A (very inspiring) quote from **Cave Johnson**, CEO of *Aperture Science*:
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+> Alright, I've been thinking. When life gives you lemons, don't make lemonade - make life take the lemons back! Get mad! I don't want your damn lemons, what am I supposed to do with these? Demand to see life's manager. Make life rue the day it thought it could give Cave Johnson lemons. Do you know who I am? I'm the man who's gonna burn your house down! With the lemons. I'm going to to get my engineers to invent a combustible lemon that burns your house down!
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+![![Portal 2 - Lemon Rant](http://img.youtube.com/vi/NyLUU3O4zW8/0.jpg)](http://www.youtube.com/watch?v=NyLUU3O4zW8)
