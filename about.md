@@ -14,4 +14,4 @@ According to this definition you can figure yourself out what kind of software w
 
 This development team has been established in the year 2012.
 
-You can contact us on Twitter: [@garrafonsoft](https://twitter.com/garrafonsoft) or by e-mail: ![alt text](https://raw.githubusercontent.com/garrafonsoft/garrafonsoft.github.io/master/images/gs_gmail_com.png "E-Mail")
+You can contact us on Twitter: [@garrafonsoft](https://twitter.com/garrafonsoft) or by e-mail: ![alt text](https://raw.githubusercontent.com/garrafonsoft/garrafonsoft.github.io/master/images/info_gs_com.png "E-Mail")
